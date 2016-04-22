@@ -1,0 +1,2 @@
+Sajt je napravljen na vezbama tako 
+se na to loguje i izloguje
